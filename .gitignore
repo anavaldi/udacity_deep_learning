@@ -1,0 +1,3 @@
+# ignore data directories and pickes
+notMNIST*
+.ipynb_checkpoints
